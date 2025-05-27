@@ -1,16 +1,34 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/spyxin/spyxin/blob/main/ffhffjj.jpg?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/spyxin/spyxin/blob/main/%E2%9C%A9.jpg?raw=true">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/spyxin/spyxin/blob/main/%E2%9C%A9.jpg?raw=true">
+</picture>
 
-<!--
-**spyxin/spyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me🧸
 
-Here are some ideas to get you started:
+<!-- will have to work on this a bit more lol -->
+Hiya, call spyxin, I'm new to coding, currently learning HTML for neocities ^^
+<br>
+Studying something completely unrelated to coding so using YT as my main source for now..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Hobbies🪀</summary>
+
+🎨 Art
+<br>
+🍳 Cooking
+<br>
+📚 Reading
+
+</details>
+
+<details>
+<summary>Languages I'm currently learning💻</summary>
+
+- HTML
+
+</details>
+<br>
+<!-- silly caprisun go spin -->
+
+ ![Alt text](https://github.com/spyxin/spyxin/blob/main/credits%20to%20tenor_com%20for%20the%20capri%20sun.gif?raw=true)
