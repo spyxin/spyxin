@@ -28,7 +28,4 @@ Studying something completely unrelated to coding so using YT as my main source 
 - HTML
 
 </details>
-<br>
-<!-- silly caprisun go spin -->
-
- ![Alt text](https://github.com/spyxin/spyxin/blob/main/credits%20to%20tenor_com%20for%20the%20capri%20sun.gif?raw=true)
+<!-- silly caprisun go spin,  nvm imma remove it -->
