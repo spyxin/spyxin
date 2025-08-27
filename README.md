@@ -26,6 +26,7 @@ Studying something completely unrelated to coding so using YT as my main source 
 <summary>Languages I'm currently learning💻</summary>
 
 - HTML
+- CSS
 
 </details>
 <!-- silly caprisun go spin,  nvm imma remove it -->
