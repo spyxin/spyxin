@@ -27,6 +27,7 @@ Studying something completely unrelated to coding so using YT as my main source 
 
 - HTML
 - CSS
+- Python
 
 </details>
 <!-- silly caprisun go spin,  nvm imma remove it -->
