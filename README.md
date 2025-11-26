@@ -9,7 +9,7 @@
 <!-- will have to work on this a bit more lol -->
 Hiya, call spyxin, I'm new to coding, currently learning HTML for neocities ^^
 <br>
-Studying something completely unrelated to coding so using YT as my main source for now..
+Studied something completely unrelated to coding so using YT as my main source for now..
 
 <details>
 <summary>Hobbies🪀</summary>
